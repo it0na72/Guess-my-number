@@ -37,6 +37,7 @@
 ## About The Project
 ![ezgif com-video-to-gif](https://github.com/it0na72/Guess-my-number/assets/56265972/8c880384-4e81-4d96-857b-04b931d9c795)
 
+Try to guess the random number!<br>
 Gained proficiency in DOM Manipulation.
 
 
@@ -60,7 +61,7 @@ After cloning this repo you should be able to change as needed.
 - [ ] Add animation and possibly a sound when the player gets the correct number
 
 
-See the [open issues](https://github.com/github_username/Guess-my-number/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/it0na72/Guess-my-number/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
