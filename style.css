@@ -118,6 +118,20 @@ h1 {
   margin-bottom: 2rem;
 }
 
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+}
+
 /* Default styles */
 
 /* Styles for desktops and larger screens */
