@@ -37,6 +37,7 @@
 ## About The Project
 ![ezgif com-video-to-gif](https://github.com/it0na72/Guess-my-number/assets/56265972/8c880384-4e81-4d96-857b-04b931d9c795)
 
+Try to guess the random number!<br>
 Gained proficiency in DOM Manipulation.
 
 
