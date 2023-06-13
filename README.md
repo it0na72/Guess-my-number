@@ -59,6 +59,7 @@ After cloning this repo you should be able to change as needed.
 - [ ] Improve media queries
 - [ ] Improve colour pallettes
 - [ ] Add animation and possibly a sound when the player gets the correct number
+- [ ] Add modal window with the instructions when the page loads 
 
 
 See the [open issues](https://github.com/it0na72/Guess-my-number/issues) for a full list of proposed features (and known issues).
