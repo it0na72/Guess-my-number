@@ -56,8 +56,11 @@ After cloning this repo you should be able to change as needed.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Improve media queries
-- [ ] Improve colour pallettes
+- [x] Improve media queries
+- [x] Improve colour palettes
+- [x] Handle click events in the application
+- [x] Manipulate CSS styles
+- [x] Implement high scores
 - [ ] Add animation and possibly a sound when the player gets the correct number
 - [ ] Add modal window with the instructions when the page loads 
 
