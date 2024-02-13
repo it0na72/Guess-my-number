@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/it0na72/Guess-my-number/">
+  <a href="https://it0na72.github.io/Guess-my-number/">
     <img src="logo.png" alt="Logo" width="100" height="100">
   </a>
 <h3 align="center">Guess my Number</h3>
@@ -56,9 +56,13 @@ After cloning this repo you should be able to change as needed.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Improve media queries
-- [ ] Improve colour pallettes
+- [x] Improve media queries
+- [x] Improve colour palettes
+- [x] Handle click events in the application
+- [x] Manipulate CSS styles
+- [x] Implement high scores
 - [ ] Add animation and possibly a sound when the player gets the correct number
+- [ ] Add modal window with the instructions when the page loads 
 
 
 See the [open issues](https://github.com/it0na72/Guess-my-number/issues) for a full list of proposed features (and known issues).
